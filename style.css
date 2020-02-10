@@ -1,0 +1,135 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+div.content{
+    background-color:grey;
+    text-align: center;
+    height: 50px;
+    padding: 6px 13px;
+   margin-bottom: 10px;
+ 
+    
+}
+a{
+    text-decoration: none;
+}
+
+div#content {
+    width: 70%;
+    display: flex;
+    margin: 0 auto;
+}
+
+div.content1{
+    border: silver solid;
+    width: 90%;
+    align-self: center;
+    border-radius: 3px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+
+
+.block2 {
+    width: 90%;
+    border:1px solid;
+    margin: 5px;
+    text-align: justify;
+    border-radius: 3px;
+    
+    
+}
+.block3 {
+    width: 90%;
+    border:1px solid;
+    margin: 5px;
+    text-align: justify;
+    border-radius: 3px;
+    
+}
+.block4 {
+    width: 90%;
+    border:1px solid;
+    margin: 5px;
+    text-align: justify;
+    border-radius: 3px;
+  
+}
+
+.link {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background: yellow;
+    padding: 6px 13px;
+    text-decoration: none;
+    
+    margin: 10px;
+    width: 90%;
+    float: right;
+
+}
+.link1  {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background: rgb(89, 89, 230);
+    padding: 6px 13px;
+    text-decoration: none;
+    
+    margin: 10px;
+    width: 90%;
+    float: right;
+   
+}
+.link2 
+{border: 1px solid #ccc;
+    border-radius: 3px;
+    background: palevioletred;
+    padding: 6px 13px;
+    text-decoration: none;
+    
+    margin: 10px;
+    width: 90%;
+    float: right;
+}
+.link3 {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background: skyblue;
+    padding: 6px 13px;
+    text-decoration: none;
+    
+    margin: 10px;
+    width: 90%;
+    float: right;
+    
+}
+
+    img{
+        border-radius: 29px;
+        float: right;
+        margin-right: 10%;
+        width: 200px;
+        height: 200px;
+      
+    }
+    
+    
+    ul{
+    list-style: none;   
+    width: 200px;
+    float: right;
+    
+    
+    }
+    #more{
+        display: none;
+    }
+    #more1{
+        display: none;
+    }
+    #more2 {
+        display: none;
+    }
